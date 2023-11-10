@@ -1,6 +1,6 @@
 # 👩‍💻 Danielle Brito
 ### Localização: Brasil
-### Formação: Análise e Desenvolvimento de Sistemas - Conclusão em 2024
+### Formação: Cursando Análise e Desenvolvimento de Sistemas
 
 ---
 
