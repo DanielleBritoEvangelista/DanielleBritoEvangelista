@@ -33,4 +33,4 @@ Meu foco está em aprimorar minhas habilidades e contribuir para projetos desafi
 ---
 
 ## Contato
- [LinkedIn]([https://www.linkedin.com/in/teste](https://www.linkedin.com/in/danielle-brito-81b4381b8/)
+ [LinkedIn](https://www.linkedin.com/in/danielle-brito-81b4381b8/)
