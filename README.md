@@ -5,7 +5,7 @@
 ---
 
 ## Sobre Mim
-Olá! Eu sou uma Engenheira de Software e Hardware, com muita curiosidade e vontade de aprender. Até o momento minha formação em Análise e Desenvolvimento de Sistemas me proporcionou uma sólida base para explorar diversas áreas da tecnologia.
+Olá! Eu sou uma Engenheira de Software e Hardware, com muita curiosidade e vontade de aprender. Até o momento o curso de Análise e Desenvolvimento de Sistemas me proporcionou uma sólida base para explorar diversas áreas da tecnologia.
 
 ---
 
