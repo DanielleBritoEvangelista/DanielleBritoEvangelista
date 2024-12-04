@@ -12,13 +12,13 @@ Olá! Eu sou uma Engenheira de Software e Hardware, com muita curiosidade e vont
 ## Habilidades e Tecnologias 🚀
 - TypeScript/JavaScript (Angular)
 - PHP (Laravel)
-- C/C++
 - Python
+- Django
 - Java
 - Banco de dados: PL/SQL
 - Jupyter Notebook
 - HTML
-- CSS
+- CSS, Bootstrap e Tailwind CSS
 
 ---
 
