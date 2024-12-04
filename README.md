@@ -5,7 +5,7 @@
 ---
 
 ## Sobre Mim
-Olá! Eu sou uma Engenheira de Software e Hardware, com muita curiosidade e vontade de aprender. Até o momento o curso de Análise e Desenvolvimento de Sistemas me proporcionou uma sólida base para explorar diversas áreas da tecnologia.
+Desenvolvedora Full Stack com sólida experiência no desenvolvimento de aplicações web utilizando PHP e Laravel, além de frameworks modernos como Angular. Competente no desenvolvimento de interfaces responsivas e interativas, integração com bancos de dados e implementação de soluções escaláveis. Experiência comprovada em equipes ágeis, entregando resultados que agregam valor ao negócio e aos clientes.
 
 ---
 
