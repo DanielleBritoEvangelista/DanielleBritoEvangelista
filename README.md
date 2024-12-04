@@ -18,6 +18,7 @@ Olá! Eu sou uma Engenheira de Software e Hardware, com muita curiosidade e vont
 - Banco de dados: PL/SQL
 - Jupyter Notebook
 - HTML
+- Livewire
 - CSS, Bootstrap e Tailwind CSS
 
 ---
