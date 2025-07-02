@@ -1,6 +1,6 @@
 # 👩‍💻 Danielle Brito
 ### Localização: Brasil
-### Formação: Cursando Análise e Desenvolvimento de Sistemas
+### Formação: Análise e Desenvolvimento de Sistemas
 
 ---
 
