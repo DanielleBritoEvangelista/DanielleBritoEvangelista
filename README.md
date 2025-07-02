@@ -12,13 +12,10 @@ Desenvolvedora Full Stack com sólida experiência no desenvolvimento de aplica�
 ## Habilidades e Tecnologias 🚀
 - TypeScript/JavaScript (Angular)
 - PHP (Laravel)
-- Python
-- Django
-- Java
+- .NET
+- C#
 - Banco de dados: PL/SQL
-- Jupyter Notebook
 - HTML
-- Livewire
 - CSS, Bootstrap e Tailwind CSS
 
 ---
